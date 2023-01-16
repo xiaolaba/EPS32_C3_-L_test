@@ -1,5 +1,5 @@
-# EPS32_C3_-L_test
-C3_C3-L_合宙_test
+# EPS32_C3_C3-L_test
+EPS32_C3_C3-L_合宙_test
 
 ![CORE-ESP32-C3_L.JPG](CORE-ESP32-C3_L.JPG)  
 ![NOTE.JPG](NOTE.JPG)  
