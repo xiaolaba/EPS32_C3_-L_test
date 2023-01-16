@@ -45,3 +45,7 @@ Code
 note
 disable USB CDC mode for C3
 FLASH mode DIO, a must
+
+
+no CH343 chip, enable USB-CDC mode  
+![USB_CDC_ENABLED_for_L.JPG](USB_CDC_ENABLED_for_L.JPG)  
