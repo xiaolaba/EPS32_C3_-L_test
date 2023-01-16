@@ -7,7 +7,7 @@ where to buy, https://world.taobao.com/item/666579064570.htm
 
 ESP32C3, USB-SERIAL GPIO18/19会被占用为USB脚, 应避免使用, 其他功能没有任何区别。  
 CHIP CH343, driver www.wch.cn/downloads/CH343SER_EXE.html    
-run CH343SER_1.61_2022-05-13.EXE, install driver first,
+run CH343SER_1.61_2022-05-13.EXE, install driver first,  
 
 ESP32C3-L, no CH343  
 
@@ -29,3 +29,10 @@ D5, IO3
 Button  
 RST  
 BOOT / IO9  
+
+Code  
+[ESP32C3_BLINK.ino](ESP32C3_BLINK.ino)  
+
+note
+disable USB CDC mode for C3
+FLASH mode DIO, a must
